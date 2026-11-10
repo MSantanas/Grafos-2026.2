@@ -1,0 +1,19 @@
+ENTREGA DE MODELAGEM - CENARIO 2
+
+Este pacote reorganiza os materiais da entrega anterior por funcao. Nenhum valor de metrica ou resultado foi recalculado nesta reorganizacao.
+
+01_DOCUMENTACAO: dossie e relatorios.
+02_DADOS: dataset original processado em ZIP (manter compactado).
+03_GRAFO_1: scripts, metricas, modelos editaveis Gephi.
+04_GRAFO_2: scripts, redes completas de usuarios, metricas e modelos editaveis.
+05_FIGURAS_SELECIONADAS: separadas em GRAFO_1/GRAFICOS, GRAFO_1/MODELO_VISUAL, GRAFO_2/GRAFICOS e GRAFO_2/MODELO_VISUAL.
+
+COMECE PELOS ARQUIVOS LEIA_SCRIPTS.txt DE CADA GRAFO.
+
+OBSERVACOES
+- Os scripts de extracao e visualizacao do Grafo 1 sao os originais. O validador teve apenas os caminhos de arquivos adaptados.
+- O script principal do Grafo 2 teve apenas caminhos adaptados. O original foi preservado.
+- Nao foram encontrados scripts separados para a analise de concentracao e a simulacao estatica de remocao do Grafo 2; os resultados existentes foram mantidos.
+- Os arquivos GEXF sao modelos editaveis; as figuras selecionadas sao PNG/SVG.
+- Este pacote nao contem o prototipo funcional da equipe de desenvolvimento.
+- O arquivo MANIFESTO_SHA256.txt permite conferir a integridade dos arquivos.

@@ -1,0 +1,14 @@
+ORDEM DE EXECUCAO DO GRAFO 1
+
+1. extrair_metricas_grafo1.py: extrai as metricas do dataset ZIP.
+   Execute a partir da raiz do projeto:
+   python 03_GRAFO_1/Scripts/extrair_metricas_grafo1.py --zip "02_DADOS/Dataset_Original/nx_network_data (1).zip" --saida "03_GRAFO_1/Metricas/Metricas_Cascatas_Recalculadas.csv"
+
+2. validar_grafo1.py: compara as metricas e os quatro modelos GEXF com as cascatas originais.
+   python 03_GRAFO_1/Scripts/validar_grafo1.py
+
+3. gerar_graficos.py: gera figuras e resumos a partir das metricas.
+   python 03_GRAFO_1/Scripts/gerar_graficos.py --csv "03_GRAFO_1/Metricas/Metricas_Cascatas_FakeNewsNet.csv" --saida "03_GRAFO_1/Metricas/Reprocessamento_Graficos"
+
+Dependencias: pandas, numpy, matplotlib, networkx.
+Os CSVs e figuras originais foram preservados; reprocessamentos vao para pastas separadas.

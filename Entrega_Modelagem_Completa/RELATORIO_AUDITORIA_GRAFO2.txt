@@ -1,0 +1,24 @@
+AUDITORIA FINAL DA EXTRACAO DO GRAFO 2 — 06/11/2026
+
+Escopo: reexecucao do script 04_GRAFO_2/Scripts/processar_grafo2.py diretamente dos 11.257 JSONs do dataset contido no pacote.
+
+RESULTADOS POR GRUPO
+Grupo                 Noticias  Usuarios  Arestas  Retuites representados  Autolacos excluidos
+GossipCop falsas       3684     564290    308547  411153                 3157
+GossipCop verdadeiras  6945     233302    145712  190586                 1020
+PolitiFact falsas       351     161136    108519  111278                 1467
+PolitiFact verdadeiras  277     258886    173483  183710                 1178
+
+COMPARACAO DOS CSVs
+Para cada um dos quatro grupos, os CSVs de arestas e usuarios reprocessados foram confrontados com os CSVs originais. Foram comparadas todas as colunas, com normalizacao apenas da ordem das linhas: contagem de registros, unicidade das chaves e dois acumuladores de hashes BLAKE2b de 128 bits por linha. Os oito pares de CSVs apresentaram coincidencia integral dos indicadores, sem chaves duplicadas. Trata-se de comparacao de conteudo por impressao digital, e nao de identidade byte a byte nem prova formal de igualdade sem possibilidade de colisao.
+
+ARQUIVOS REPROCESSADOS
+04_GRAFO_2/Redes_Usuarios/Reprocessamento/ foi gerado durante a auditoria e nao foi duplicado no ZIP final para evitar arquivos redundantes. O script fornecido no pacote regenera os CSVs localmente, sem sobrescrever os resultados historicos.
+
+PENDENCIAS E LIMITES
+- A analise de concentracao/remocao e reprodutivel com criterio explicito de desempate, mas apresenta pequenas divergencias em relacao aos percentuais historicos; consultar 04_GRAFO_2/Metricas/Reproducao/RELATORIO_VERIFICACAO.txt.
+- A integracao com o prototipo funcional e seus testes permanecem fora do escopo desta auditoria.
+- As arestas inferidas do encadeamento de eventos nao demonstram exposicao real entre usuarios.
+
+CONCLUSAO
+A extracao dos quatro grafos de usuarios foi reexecutada a partir dos JSONs e os CSVs de vertices e arestas gerados coincidem com os arquivos entregues em conteudo, independentemente da ordem das linhas.

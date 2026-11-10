@@ -1,0 +1,3746 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-11-06">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="role" type="string" />
+      <attribute id="1" title="outstrength_full" type="long" />
+    </attributes>
+    <nodes>
+      <node id="2478106163" label="2478106163">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-638.721338178239" y="98.4278393299833" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1951124489" label="1951124489">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-890.0361854652558" y="295.80118816811904" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1876510851" label="1876510851">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-96.51177426867736" y="-641.6427716825345" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5446018483" label="5446018483">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-738.6008581649901" y="70.06077764324566" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6026486939" label="6026486939">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="731.5803986077483" y="-324.44654932273045" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4697143245" label="4697143245">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-10.474550453974741" y="-937.6731457114918" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8396428049" label="8396428049">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-674.4554150478587" y="395.6657535866973" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1996742282" label="1996742282">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-676.9889094362647" y="-139.90331315642462" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2033239709" label="2033239709">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-176.8176784429974" y="-575.8281041967234" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4890256162" label="4890256162">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="596.810555747951" y="337.25545822929615" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5011639846" label="5011639846">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="493.09172024561326" y="-785.989051080421" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1195502309" label="1195502309">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-828.5136105799046" y="-157.48065715161098" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2603905261" label="2603905261">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="41.851962060642734" y="-932.703451935337" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3567544615" label="3567544615">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="175.51807960224562" y="-888.2850489804179" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3853659094" label="3853659094">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="372.19633163461236" y="631.3181416748115" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3085955370" label="3085955370">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-776.8664700537263" y="-75.95841224879169" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9576249522" label="9576249522">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="69.98234065414277" />
+        <viz:position x="-237.94308566870964" y="-732.3135175472681" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1404" />
+        </attvalues>
+      </node>
+      <node id="8854315024" label="8854315024">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="108.89573209117454" y="-624.745954896464" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3576899863" label="3576899863">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="589.0273061144716" y="-325.65318550468015" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7309890412" label="7309890412">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-465.9546188086535" y="-512.4162229214807" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6181139269" label="6181139269">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-162.7034519353371" y="-811.8519620606429" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9316678829" label="9316678829">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="758.0318100838266" y="352.71953957991957" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1824216264" label="1824216264">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-75.41511398868523" y="-689.7851926146167" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2910450188" label="2910450188">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="95.76242893310379" y="-821.8046391752371" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7508008793" label="7508008793">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="293.47735384170954" y="676.8475185873965" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1292368751" label="1292368751">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-340.05174409533447" y="598.9050400268543" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2797299538" label="2797299538">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-901.6913051030544" y="104.31394997915785" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6553589027" label="6553589027">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-784.3592408880396" y="406.02400078447585" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8872794010" label="8872794010">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="81.97155423555986" y="-669.8885114808044" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8016146827" label="8016146827">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-133.8320193542178" y="871.5528955548401" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1481196175" label="1481196175">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="587.2667943336787" y="522.5069766444435" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7644251943" label="7644251943">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="69.02796756544029" />
+        <viz:position x="732.3135175472681" y="-237.94308566870967" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1246" />
+        </attvalues>
+      </node>
+      <node id="7519161536" label="7519161536">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-460.77450635504255" y="-408.7158124281229" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2976766939" label="2976766939">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-563.1215070124331" y="-295.6061774051481" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1338052305" label="1338052305">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="141.46994875693625" y="869.8523624399102" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9844199270" label="9844199270">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="75.85659900064962" />
+        <viz:position x="237.94308566870953" y="732.3135175472681" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="2927" />
+        </attvalues>
+      </node>
+      <node id="1235269757" label="1235269757">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="279.11796084085813" y="-895.1896350555081" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3326765894" label="3326765894">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-311.54167881307666" y="-531.6848754234891" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6812639853" label="6812639853">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="72.9656406947061" />
+        <viz:position x="4.71489017671731e-14" y="770.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="2039" />
+        </attvalues>
+      </node>
+      <node id="3477841804" label="3477841804">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="55.22617469410166" y="928.6633846501976" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2485005515" label="2485005515">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-665.6860500208422" y="131.69130510305453" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4767878987" label="4767878987">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="48.58108371434632" y="609.1774944072203" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5154781728" label="5154781728">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="133.8320193542179" y="668.4471044451599" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1010341244" label="1010341244">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-299.06849289442187" y="-888.798930897813" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2230662396" label="2230662396">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="137.93891143804203" y="865.9002435413383" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5885428749" label="5885428749">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="77.91463542321436" />
+        <viz:position x="622.9430856687096" y="452.5946442652043" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="3786" />
+        </attvalues>
+      </node>
+      <node id="4512196367" label="4512196367">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-357.8451545935433" y="484.2112068269675" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4036335861" label="4036335861">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="560.6980171252962" y="-494.34424906327257" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2246857837" label="2246857837">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-602.145294754089" y="-6.985551288792803" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1055014674" label="1055014674">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-601.057219686324" y="-342.80387086431523" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6556361186" label="6556361186">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-565.7414921639208" y="610.5565944320497" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4171749072" label="4171749072">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="623.1441438965002" y="-365.6382220549441" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8766597495" label="8766597495">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-190.03132371554605" y="571.2903419900107" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5328759869" label="5328759869">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="363.6956620866474" y="-480.39144250870726" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1360761810" label="1360761810">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-160.8225055927797" y="721.4189162856536" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6760865286" label="6760865286">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="784.8924786356177" y="397.50327133816097" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3574739511" label="3574739511">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-457.4852493184793" y="455.0142853329337" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1934111776" label="1934111776">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-555.2572991386161" y="489.9604578771717" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7138400938" label="7138400938">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-61.775740989672855" y="-926.229823737905" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6673964353" label="6673964353">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-101.55289555484" y="636.1679806457821" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6702056515" label="6702056515">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="69.63319433628752" />
+        <viz:position x="452.5946442652041" y="-622.9430856687096" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1344" />
+        </attvalues>
+      </node>
+      <node id="4485123593" label="4485123593">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-461.5269304493794" y="499.1652877459331" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1295591634" label="1295591634">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-755.4975632032707" y="555.809519576564" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4666097961" label="4666097961">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="624.340582711874" y="620.588831670645" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1841525448" label="1841525448">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="162.7034519353368" y="-728.1480379393571" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3387194922" label="3387194922">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="662.7616618796959" y="-615.8076369726781" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7415342491" label="7415342491">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-447.70403921192917" y="790.8718860044855" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5614154663" label="5614154663">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-291.3735843579988" y="670.1846970129185" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2223263801" label="2223263801">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-547.3441339368651" y="761.6749645104517" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1735333468" label="1735333468">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-592.024557825389" y="-145.51469295222353" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2428268614" label="2428268614">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-726.157960980069" y="320.04016673064314" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1090223239" label="1090223239">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-613.8157041724097" y="575.7014743245007" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2702785219" label="2702785219">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-863.0110905637353" y="139.90331315642484" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9598837143" label="9598837143">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="569.7009281348139" y="293.2545279694772" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4002409964" label="4002409964">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-614.9443240432207" y="-666.1470377561698" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4825703540" label="4825703540">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-483.81831968657764" y="546.7662933450472" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2458166868" label="2458166868">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-367.8807681200516" y="-625.823148596953" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2380020909" label="2380020909">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-785.1116649823766" y="-496.4734761022857" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3023082911" label="3023082911">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="3.493531070919575" y="937.963672383812" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5926745709" label="5926745709">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="249.1149406164548" y="-564.6853884727406" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5337177288" label="5337177288">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-135.83442724208444" y="865.7219950676823" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9434457050" label="9434457050">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="71.3021121394125" />
+        <viz:position x="-770.0" y="9.42978035343462e-14" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1656" />
+        </attvalues>
+      </node>
+      <node id="1710676157" label="1710676157">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-779.9315525287658" y="-392.77306560892794" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6580862446" label="6580862446">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="868.7479223851354" y="135.91485505499116" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7586881463" label="7586881463">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="820.023617383239" y="-381.22929710150606" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6026777890" label="6026777890">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="620.5815660217161" y="620.8468703239513" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6713417812" label="6713417812">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="69.96633564472924" y="735.1084149302195" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2225950042" label="2225950042">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="905.9148550549912" y="98.74792238513548" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8366847890" label="8366847890">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-669.5137291494381" y="614.0107994845346" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7687854484" label="7687854484">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-837.1743027428745" y="-369.19938352965346" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5652875612" label="5652875612">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="796.6797944953184" y="-82.7626023860272" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4766436456" label="4766436456">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="681.0636666247697" y="397.93512540950934" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1333117998" label="1333117998">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="564.3149707021927" y="238.64184023433123" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1724650214" label="1724650214">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-776.9855512887929" y="-167.85470524591085" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2279532424" label="2279532424">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="523.0679809834247" y="317.5059198500874" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8798559442" label="8798559442">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="541.4936264437608" y="-765.4947288287119" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1295219821" label="1295219821">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="610.2225052624142" y="-51.91485505499108" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9239290897" label="9239290897">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="770.0" y="-168.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1671352597" label="1671352597">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-591.3265231069464" y="528.1935959970486" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2772746739" label="2772746739">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="899.7892008166865" y="-251.20564626014504" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9712855330" label="9712855330">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="581.1934808706411" y="-731.0464585288017" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1651087771" label="1651087771">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="506.4990771838912" y="782.0603760922044" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3952117705" label="3952117705">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="226.77123072096376" y="-899.941646621796" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1406959097" label="1406959097">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="895.6907140533126" y="-198.8036980671473" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4399835128" label="4399835128">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="621.5455886255452" y="284.60045685976354" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9518517810" label="9518517810">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="745.5760781387036" y="-70.46740239929142" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7474876552" label="7474876552">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="287.1926507175597" y="571.6944640620136" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4258334127" label="4258334127">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="679.7345564589185" y="78.38289999925809" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6988800879" label="6988800879">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="72.27382661019271" />
+        <viz:position x="-452.59464426520424" y="622.9430856687096" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1870" />
+        </attvalues>
+      </node>
+      <node id="9927791689" label="9927791689">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="613.0074670194988" y="672.860280061016" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5696084264" label="5696084264">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-156.22982373790515" y="-708.2242590103274" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1302329899" label="1302329899">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="167.96367238381202" y="766.5064689290804" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7015132864" label="7015132864">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="900.3120643923436" y="237.2443311030877" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5042671725" label="5042671725">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-284.6658439294283" y="618.0524806154345" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4285688670" label="4285688670">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-628.5482073599173" y="370.06711982496313" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7520951741" label="7520951741">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="107.02989158040492" y="-640.5063619003361" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3623846330" label="3623846330">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="671.2520776148646" y="135.91485505499116" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1638848105" label="1638848105">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="494.7949907262354" y="-343.9573313261657" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4722323049" label="4722323049">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-99.6064939544156" y="827.6392086954198" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7691154792" label="7691154792">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-69.99539660646658" y="728.1214132245933" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2222662239" label="2222662239">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="633.0011449866814" y="102.44012386939227" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5353025834" label="5353025834">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="141.80721066214318" y="-679.9182870710015" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1803096699" label="1803096699">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="733.01227211289" y="405.941632513785" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4353821657" label="4353821657">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="10.474550453974476" y="-602.3268542885082" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8480181888" label="8480181888">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-482.2709063050977" y="-360.75054835756407" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3158019785" label="3158019785">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="393.9146171018589" y="-794.7385236137321" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7221925183" label="7221925183">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="514.3057727296706" y="-580.7427392076785" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1406780787" label="1406780787">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="167.6731457114916" y="-780.4745504539746" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4579748826" label="4579748826">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="718.0851449450089" y="159.7774947375858" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9629809206" label="9629809206">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="782.2832019644367" y="399.3524867313086" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1546127161" label="1546127161">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-780.9050358355548" y="509.7962377699931" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1391914373" label="1391914373">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-81.4576723181649" y="-793.4389247729804" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3825318663" label="3825318663">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="69.34863917811228" />
+        <viz:position x="622.9430856687095" y="-452.59464426520447" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1297" />
+        </attvalues>
+      </node>
+      <node id="4524847365" label="4524847365">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="327.43420729667804" y="-874.4941742828739" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1271755367" label="1271755367">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-108.00540321736771" y="-838.8038864975833" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1112858245" label="1112858245">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-195.41476073605816" y="-894.8414892272925" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1591962119" label="1591962119">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="610.3772135943595" y="-620.1240412646896" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3099164556" label="3099164556">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-344.4334546190247" y="-862.2511999986101" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8677533321" label="8677533321">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="70.59064452961854" />
+        <viz:position x="-452.5946442652044" y="-622.9430856687095" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1515" />
+        </attvalues>
+      </node>
+      <node id="9157341476" label="9157341476">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-464.9811355018642" y="395.3930507604157" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2302223371" label="2302223371">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-871.8287638859944" y="144.35090629968042" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5097829700" label="5097829700">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-620.5234446009802" y="627.8336907219847" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9027690616" label="9027690616">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-717.1147347485522" y="591.7194102473363" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1161369420" label="1161369420">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-909.9033131564247" y="-93.01109056373518" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2162841654" label="2162841654">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="344.491271405112" y="-751.5419222741466" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1842832332" label="1842832332">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-724.7736975663364" y="-161.7979652782406" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5654390991" label="5654390991">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="323.9958076597671" y="-514.8397128086175" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9306922238" label="9306922238">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="572.3214778064684" y="186.693234746211" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4431316418" label="4431316418">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-893.9219756658557" y="192.04421569860315" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3793600772" label="3793600772">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="572.3591254736234" y="612.7984612327845" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8118676830" label="8118676830">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="786.1560783761831" y="-412.776068054218" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2562675648" label="2562675648">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="77.32403218345493" y="683.0639524984181" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5237401097" label="5237401097">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="620.1748568260863" y="-634.8120518431302" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5705670528" label="5705670528">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-182.05746744940774" y="890.7458301487274" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1618457985" label="1618457985">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="310.04300110520177" y="-711.8420678472663" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5798420229" label="5798420229">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-894.2981909671857" y="-282.49603817516703" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8575244245" label="8575244245">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="240.73798305166088" y="900.2902675712485" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5895620165" label="5895620165">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-666.8219175057908" y="-290.4260649515371" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6276342172" label="6276342172">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-79.51077306725033" y="676.4278993279667" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4418083773" label="4418083773">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="778.3899423359518" y="-516.3149295146744" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6692939989" label="6692939989">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-349.9319893917924" y="755.9257134602475" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2700561161" label="2700561161">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-680.1446791734982" y="294.63269409835914" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2974295240" label="2974295240">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-48.58108371434628" y="930.8225055927797" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7661185900" label="7661185900">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-167.67314571149188" y="-759.5254495460254" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1538435026" label="1538435026">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-293.8287038880111" y="573.8812049458091" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2032794871" label="2032794871">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="718.0851449450089" y="-159.77749473758578" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7484510798" label="7484510798">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="486.21150494940395" y="354.98073729493706" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8950771725" label="8950771725">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="765.8632491861769" y="-364.2893394407469" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6844408548" label="6844408548">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="673.5270458637958" y="292.39082729762407" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7002872591" label="7002872591">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-631.3246836841987" y="-620.3854330907733" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8557774279" label="8557774279">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="595.9891204906619" y="139.76132174509308" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4495235269" label="4495235269">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="577.1330342645856" y="-173.57680872065956" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4578943085" label="4578943085">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-294.39614450647485" y="566.3989907154142" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5104300672" label="5104300672">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-576.3724421879809" y="291.17848904587436" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2569335531" label="2569335531">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-711.4863894200954" y="157.48065715161115" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2051116532" label="2051116532">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-638.3086948969456" y="-104.31394997915766" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8932502851" label="8932502851">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-753.7621056240246" y="-347.18883788846375" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2085899113" label="2085899113">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-612.519342848389" y="-58.51361057990451" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4057038115" label="4057038115">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-76.91991011145183" y="780.2252795004316" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4247932622" label="4247932622">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="867.8164793465854" y="138.63071310812282" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1038363374" label="1038363374">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-55.22617469410154" y="611.3366153498024" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2936443748" label="2936443748">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="90.08171292899836" y="-911.8072106621433" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5904275047" label="5904275047">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-575.0775954928964" y="-297.1111920750448" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1923717483" label="1923717483">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-131.45271671839453" y="-602.3758350959263" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2210102874" label="2210102874">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-167.9636723838119" y="773.4935310709196" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3527053266" label="3527053266">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-585.5772720567422" y="725.6057405421215" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3640852479" label="3640852479">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-763.6152650323214" y="-544.4387401728444" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4325053678" label="4325053678">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-614.5614876532204" y="-284.8038554396351" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1368556711" label="1368556711">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="160.8225055927798" y="818.5810837143462" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8804148141" label="8804148141">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="71.6977195181455" />
+        <viz:position x="-732.3135175472681" y="237.94308566870956" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1740" />
+        </attvalues>
+      </node>
+      <node id="4105915703" label="4105915703">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="405.91983569268984" y="729.5186201643169" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8395668056" label="8395668056">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="69.72780002121172" />
+        <viz:position x="237.94308566870936" y="-732.3135175472682" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1360" />
+        </attvalues>
+      </node>
+      <node id="9460603210" label="9460603210">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-574.5908496292805" y="180.08498316930002" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2329324124" label="2329324124">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="69.78052815057737" />
+        <viz:position x="-1.414467053015193e-13" y="-770.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1369" />
+        </attvalues>
+      </node>
+      <node id="7689576622" label="7689576622">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="830.4952814708846" y="101.6186886121032" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6084501579" label="6084501579">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="459.7300929612358" y="-492.41322047619093" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4192049220" label="4192049220">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="188.6935206198594" y="892.9325710325228" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9633885738" label="9633885738">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="868.6379146038744" y="336.124849592326" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6025497878" label="6025497878">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-313.8627654234621" y="717.6925753403705" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1230267814" label="1230267814">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="285.0144317043219" y="-611.074119494289" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6057104254" label="6057104254">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-778.2123875173747" y="399.5515437872971" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8273809517" label="8273809517">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="595.1462874252064" y="-534.0441034901528" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1264688281" label="1264688281">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="79.05137376118697" y="786.8792933329826" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9917018718" label="9917018718">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="608.3051851698008" y="-686.0162768928577" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4722723260" label="4722723260">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="667.9472405992178" y="-393.12356895139203" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5233118602" label="5233118602">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-528.7714365888668" y="313.4698782830726" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7209246205" label="7209246205">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="635.5089577430593" y="-285.0652472657194" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4156551132" label="4156551132">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="644.6034177112974" y="-94.65687423591325" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3228396609" label="3228396609">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="440.72567809078345" y="-790.5232982295918" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7303001135" label="7303001135">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-41.851962060643004" y="-607.296548064663" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8664734676" label="8664734676">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-233.75098134603442" y="900.2612066095112" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3555279107" label="3555279107">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-824.7419102637541" y="-97.65412594682968" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2293031070" label="2293031070">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="78.42803839098227" />
+        <viz:position x="770.0" y="0.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="4037" />
+        </attvalues>
+      </node>
+      <node id="1976826444" label="1976826444">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="352.15853524093814" y="488.2709356002351" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6639921573" label="6639921573">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="790.4724826681945" y="-465.16051633955436" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9960239835" label="9960239835">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="887.4940008299507" y="-302.30936261675987" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8922235613" label="8922235613">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-517.5372792919692" y="-321.7756243098893" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9199617545" label="9199617545">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="70.31495659418161" y="-721.141662599523" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1478800317" label="1478800317">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-70.22782397569915" y="-742.0905823033701" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6170732153" label="6170732153">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="615.6406096769155" y="-582.4460096883004" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5699510252" label="5699510252">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="463.60296937298256" y="505.8368017991" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5854399142" label="5854399142">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="938.0" y="0.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7079167004" label="7079167004">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="462.73926870112945" y="402.0106840701181" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4063112275" label="4063112275">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="345.51064831951373" y="-603.2661639697336" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2127488183" label="2127488183">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-228.16602091260773" y="-564.5982558542577" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1152270714" label="1152270714">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-443.5152343449492" y="-455.1886093782094" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8454869894" label="8454869894">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="602.0" y="2.0574066225675533e-14" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3547960339" label="3547960339">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="315.45824526617366" y="525.8987243200014" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5691341923" label="5691341923">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="455.4136886692244" y="-440.0287721908546" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5781336864" label="5781336864">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="292.508861454424" y="891.2052294547907" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5254616738" label="5254616738">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-158.66338465019757" y="825.2261746941016" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9511283265" label="9511283265">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="534.6377808442519" y="-309.6744807477371" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1162486149" label="1162486149">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-147.27233980397608" y="-873.7448289473004" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1827077024" label="1827077024">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="671.2520776148644" y="-135.91485505499114" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2972685785" label="2972685785">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-400.471057348734" y="-774.8418424799196" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4384190068" label="4384190068">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-543.8528545104249" y="-481.89012021658175" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4780234747" label="4780234747">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="183.37730988299512" y="573.4218056397456" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1936028976" label="1936028976">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="75.06696816046941" y="-773.4883927194169" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3227968809" label="3227968809">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="130.37552301790478" y="-861.3608711248029" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3091615186" label="3091615186">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-379.37439706874187" y="-822.9842634120017" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9012977435" label="9012977435">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-570.3288441273511" y="-193.39013316225117" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7301838482" label="7301838482">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="783.5633684697666" y="77.95104592790962" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7079139065" label="7079139065">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="148.4519640407408" y="-590.1328608116626" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2379619450" label="2379619450">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-328.6138315334432" y="-590.8822061472359" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7737031863" label="7737031863">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-762.0678516508414" y="358.42299518536174" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5847344254" label="5847344254">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="711.248390493167" y="-595.5148077826718" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4732365340" label="4732365340">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="402.67744987289774" y="783.355908423004" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1281180093" label="1281180093">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-825.9056969162971" y="377.45833200743596" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7387681102" label="7387681102">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="334.41622258048284" y="594.7746726546262" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2782307438" label="2782307438">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="568.9363210412238" y="-277.08247327027215" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8287030702" label="8287030702">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="860.0086539335024" y="-347.1124593194778" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4747337911" label="4747337911">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="770.0" y="168.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2162680707" label="2162680707">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="405.5712147432371" y="-743.4853724950137" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9901966607" label="9901966607">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="515.6678354893522" y="-467.23254476411296" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2477031205" label="2477031205">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-608.2020347217593" y="45.22630243366372" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2894908287" label="2894908287">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="892.305557288068" y="289.192936591208" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6264678855" label="6264678855">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-582.9741232160442" y="-516.994081574723" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9380856522" label="9380856522">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="72.27810125630029" />
+        <viz:position x="-237.94308566870944" y="732.3135175472682" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1871" />
+        </attvalues>
+      </node>
+      <node id="3651153588" label="3651153588">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-889.5494396016404" y="-178.77497926237342" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1132347293" label="1132347293">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-931.7979652782407" y="-45.226302433663626" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3563268386" label="3563268386">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-863.5698154082128" y="-133.08230047310298" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8296521893" label="8296521893">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-376.2796773830032" y="636.9878263991168" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7379644947" label="7379644947">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-90.08171292899863" y="-628.1927893378567" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4918175465" label="4918175465">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-726.0261769295463" y="405.8253936941735" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5496365145" label="5496365145">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-95.90024354133833" y="907.9389114380419" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9845079721" label="9845079721">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="929.7774947375857" y="-51.9148550549912" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8499647483" label="8499647483">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="366.990439246244" y="-839.8810801980727" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4497527186" label="4497527186">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="891.8737032167196" y="185.36412458035983" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2691978973" label="2691978973">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-815.2263024336636" y="161.7979652782408" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3915156268" label="3915156268">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-790.8500921998854" y="458.18366544423645" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3956094054" label="3956094054">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-333.26877681686096" y="870.6501092615621" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9995201997" label="9995201997">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="77.02396044617556" />
+        <viz:position x="452.5946442652043" y="622.9430856687096" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="3387" />
+        </attvalues>
+      </node>
+      <node id="2343694864" label="2343694864">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="400.8192031769492" y="-691.1386423751196" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2377898807" label="2377898807">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="70.62224430737305" />
+        <viz:position x="-622.9430856687096" y="-452.59464426520424" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1521" />
+        </attvalues>
+      </node>
+      <node id="1175279320" label="1175279320">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-874.3139499791578" y="-131.69130510305436" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3849082125" label="3849082125">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="355.55028291649603" y="760.0794846677403" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6259046264" label="6259046264">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="868.7479223851354" y="-135.9148550549912" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6188163143" label="6188163143">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="929.7774947375857" y="51.914855054991165" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3724675245" label="3724675245">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-495.79859635266445" y="-460.5934058906931" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7349613047" label="7349613047">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="841.4828911980361" y="-110.2479492824753" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2915219092" label="2915219092">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-673.1454111409328" y="-80.70716361433715" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2025415224" label="2025415224">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-864.4375517035218" y="341.7083958560603" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1088356024" label="1088356024">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-247.7201504248115" y="-900.0287792402787" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2763869025" label="2763869025">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="751.0911806111836" y="-561.2319572042433" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7453851059" label="7453851059">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-499.8362556094131" y="784.1641455759151" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8495889190" label="8495889190">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="610.2225052624143" y="51.91485505499118" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1197500381" label="1197500381">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-3.493531070919539" y="602.036327616188" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7901652710" label="7901652710">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-564.4893188772382" y="-245.62672678228412" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8689497383" label="8689497383">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-490.3886081341482" y="349.3797689538449" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6104748154" label="6104748154">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="487.8543612535927" y="552.469748950489" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5134770612" label="5134770612">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-361.33643401998404" y="-763.9960511208373" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4060446179" label="4060446179">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-628.5321068477415" y="284.68763773402856" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5933077696" label="5933077696">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-728.3488920454499" y="-583.4136642205193" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5327547760" label="5327547760">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-610.7931440239338" y="679.487180622005" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8695797532" label="8695797532">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="831.6258901078547" y="373.4460474680268" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4902513783" label="4902513783">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="95.90024354133841" y="632.0610885619581" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8621743408" label="8621743408">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="564.8378342778499" y="-224.6805250772741" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4080432068" label="4080432068">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="875.5997289800647" y="-150.23298583273902" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5503246426" label="5503246426">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="100.40424077606751" y="635.8403806354949" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4125950885" label="4125950885">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-600.1894833910146" y="134.1777754813587" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3148365391" label="3148365391">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="101.55289555484012" y="903.8320193542178" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2275357302" label="2275357302">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="611.7119346886991" y="569.0386527500226" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7561026708" label="7561026708">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="771.4529051488304" y="-401.3202821747542" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4694364545" label="4694364545">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-900.1377162172986" y="-230.25944455513405" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2653657695" label="2653657695">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-455.03607913753365" y="447.0056230861725" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2981031209" label="2981031209">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-724.6298764336934" y="-70.11888699867886" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3274839675" label="3274839675">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-492.1240657133945" y="-558.0004506419446" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5954351994" label="5954351994">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="821.9148550549911" y="159.77749473758578" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6325868920" label="6325868920">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="821.9148550549911" y="-159.7774947375858" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4549347624" label="4549347624">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-319.6120164736663" y="520.2804307952978" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8325282096" label="8325282096">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="634.0851449450088" y="-98.74792238513547" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7851317555" label="7851317555">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-242.13518999138444" y="564.3658284850254" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2283707809" label="2283707809">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-627.4527323516623" y="-106.68678780776472" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3730816050" label="3730816050">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-682.7646643249859" y="-609.5831111252604" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9134809816" label="9134809816">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-129.49363809966405" y="-662.9701084195949" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6719409114" label="6719409114">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="905.9148550549911" y="-98.74792238513552" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2853215261" label="2853215261">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-405.65834736172013" y="-722.5364527911663" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6212964435" label="6212964435">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="196.76821049656044" y="-569.4374000390285" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6813453669" label="6813453669">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="464.4636104396247" y="-455.3628731078274" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2623743588" label="2623743588">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-763.0144487112071" y="167.85470524591105" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9101378410" label="9101378410">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="454.6908596099625" y="790.9300074252213" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6518786203" label="6518786203">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="296.8841033606075" y="-559.8698944445615" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2038579002" label="2038579002">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-639.8851248307827" y="-378.23204539058855" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6217239655" label="6217239655">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="634.1317536236517" y="374.2674827253158" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1091463184" label="1091463184">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-937.854705245911" y="6.985551288792897" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3582917289" label="3582917289">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-405.35303292099536" y="461.72202576150414" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2567707454" label="2567707454">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-394.4284990192544" y="-671.188110321556" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9146458307" label="9146458307">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="72.16187645179701" />
+        <viz:position x="-622.9430856687095" y="452.5946442652044" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1844" />
+        </attvalues>
+      </node>
+      <node id="1128305750" label="1128305750">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-739.9971586608434" y="-405.76728433873933" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3870566534" label="3870566534">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-620.3491205557045" y="-613.8636757484542" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2734600933" label="2734600933">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="380.123742404315" y="-642.8223959192997" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7177898690" label="7177898690">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-405.89077473095233" y="736.5056218699432" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8023484594" label="8023484594">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-714.7871815763499" y="-311.9224649015924" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2200543894" label="2200543894">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-280.47141060136113" y="-569.7855458672437" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7118743565" label="7118743565">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-396.0505493119089" y="781.1415854274389" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5619125505" label="5619125505">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-371.3515631891235" y="834.4221759738932" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1172302109" label="1172302109">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-285.8548476218729" y="893.3366931045259" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4202530246" label="4202530246">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-872.6024772691478" y="-330.37147838519473" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8963940359" label="8963940359">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="158.6633846501977" y="714.7738253058984" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1049477898" label="1049477898">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-392.120628240197" y="-466.2047898192038" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7749268948" label="7749268948">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-617.3540644896774" y="620.5016507963803" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8741307729" label="8741307729">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="759.6746663880152" y="550.2085512354715" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5510146063" label="5510146063">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-346.64564017121813" y="-492.5636067178697" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4271871426" label="4271871426">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-104.5346081482954" y="630.2048591206433" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1531292178" label="1531292178">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="289.54867885349273" y="-663.4401616491186" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6221884031" label="6221884031">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="731.6147629816464" y="69.94453882363402" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8723476338" label="8723476338">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="454.9488982632689" y="453.9921413083687" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2725958757" label="2725958757">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="549.6390056139126" y="485.80668666967887" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="6385516754" label="6385516754">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="719.0509569558329" y="-405.4187689381279" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7986284395" label="7986284395">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-609.3329401147101" y="-562.4690696437024" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5536336517" label="5536336517">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="300.36809173517315" y="-576.3419861141188" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7228527313" label="7228527313">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="525.3291786984423" y="589.32622498451" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8502758285" label="8502758285">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="61.775740989672556" y="-613.770176262095" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2482913124" label="2482913124">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-630.0966868435753" y="93.0110905637353" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1430640478" label="1430640478">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-142.61739452055795" y="593.9769258329745" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1035213517" label="1035213517">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="604.6183811610339" y="-128.77371201794153" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3846601664" label="3846601664">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-290.2449644871881" y="-579.7391335812492" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3355652015" label="3355652015">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="783.1469026362897" y="503.1786044602905" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="8525916237" label="8525916237">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="78.00496065739753" />
+        <viz:position x="732.3135175472681" y="237.9430856687095" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="3829" />
+        </attvalues>
+      </node>
+      <node id="8455006383" label="8455006383">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-141.80721066214352" y="-860.0817129289984" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4130182128" label="4130182128">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-396.37539827016855" y="788.1991357665698" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2813310341" label="2813310341">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-927.480657151611" y="58.51361057990473" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="5213298893" label="5213298893">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="129.4936380996638" y="-877.0298915804051" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="3992614351" label="3992614351">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="396.8347975762321" y="677.7477417615538" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="2429357633" label="2429357633">
+        <viz:color r="55" g="100" b="175" a="1.0" />
+        <viz:size value="70.73187081890529" />
+        <viz:position x="-732.3135175472685" y="-237.9430856687091" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="origem_top20" />
+          <attvalue for="1" value="1542" />
+        </attvalues>
+      </node>
+      <node id="2638755939" label="2638755939">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-509.13873921849955" y="464.74458590998023" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4931683463" label="4931683463">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-519.72821035735" y="585.1491217997657" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1749539780" label="1749539780">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="-686.4146475771618" y="76.33462755012202" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="4012798002" label="4012798002">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="634.0851449450089" y="98.7479223851355" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="7540715104" label="7540715104">
+        <viz:color r="180" g="190" b="202" a="0.85" />
+        <viz:size value="5.0" />
+        <viz:position x="553.0307532894705" y="757.6152357371841" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="retuitador_conectado" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="9576249522" target="1010341244" id="0" weight="18" />
+      <edge source="9576249522" target="1088356024" id="1" weight="18" />
+      <edge source="9576249522" target="1112858245" id="2" weight="18" />
+      <edge source="9576249522" target="1162486149" id="3" weight="18" />
+      <edge source="9576249522" target="1271755367" id="4" weight="18" />
+      <edge source="9576249522" target="1391914373" id="5" weight="18" />
+      <edge source="9576249522" target="1478800317" id="6" weight="18" />
+      <edge source="9576249522" target="1824216264" id="7" weight="18" />
+      <edge source="9576249522" target="1876510851" id="8" weight="18" />
+      <edge source="9576249522" target="1923717483" id="9" weight="18" />
+      <edge source="9576249522" target="2033239709" id="10" weight="18" />
+      <edge source="9576249522" target="2127488183" id="11" weight="18" />
+      <edge source="9576249522" target="2200543894" id="12" weight="18" />
+      <edge source="9576249522" target="2379619450" id="13" weight="18" />
+      <edge source="9576249522" target="2458166868" id="14" weight="18" />
+      <edge source="9576249522" target="2567707454" id="15" weight="18" />
+      <edge source="9576249522" target="2853215261" id="16" weight="18" />
+      <edge source="9576249522" target="2972685785" id="17" weight="18" />
+      <edge source="9576249522" target="3091615186" id="18" weight="18" />
+      <edge source="9576249522" target="3099164556" id="19" weight="18" />
+      <edge source="7644251943" target="9960239835" id="20" weight="12" />
+      <edge source="7644251943" target="2772746739" id="21" weight="11" />
+      <edge source="7644251943" target="1406959097" id="22" weight="9" />
+      <edge source="7644251943" target="4080432068" id="23" weight="8" />
+      <edge source="7644251943" target="7349613047" id="24" weight="8" />
+      <edge source="7644251943" target="5652875612" id="25" weight="6" />
+      <edge source="7644251943" target="9518517810" id="26" weight="6" />
+      <edge source="7644251943" target="9633885738" id="27" weight="6" />
+      <edge source="7644251943" target="4156551132" id="28" weight="5" />
+      <edge source="7644251943" target="1035213517" id="29" weight="4" />
+      <edge source="7644251943" target="4495235269" id="30" weight="4" />
+      <edge source="7644251943" target="8621743408" id="31" weight="4" />
+      <edge source="7644251943" target="2782307438" id="32" weight="3" />
+      <edge source="7644251943" target="3576899863" id="33" weight="3" />
+      <edge source="7644251943" target="4171749072" id="34" weight="3" />
+      <edge source="7644251943" target="4722723260" id="35" weight="3" />
+      <edge source="7644251943" target="6385516754" id="36" weight="3" />
+      <edge source="7644251943" target="7561026708" id="37" weight="3" />
+      <edge source="7644251943" target="7586881463" id="38" weight="3" />
+      <edge source="7644251943" target="8287030702" id="39" weight="3" />
+      <edge source="9844199270" target="5781336864" id="40" weight="67" />
+      <edge source="9844199270" target="8575244245" id="41" weight="52" />
+      <edge source="9844199270" target="4192049220" id="42" weight="24" />
+      <edge source="9844199270" target="1338052305" id="43" weight="18" />
+      <edge source="9844199270" target="2222662239" id="44" weight="15" />
+      <edge source="9844199270" target="1264688281" id="45" weight="14" />
+      <edge source="9844199270" target="6713417812" id="46" weight="14" />
+      <edge source="9844199270" target="2562675648" id="47" weight="12" />
+      <edge source="9844199270" target="5503246426" id="48" weight="12" />
+      <edge source="9844199270" target="2225950042" id="49" weight="11" />
+      <edge source="9844199270" target="4780234747" id="50" weight="11" />
+      <edge source="9844199270" target="3849082125" id="51" weight="10" />
+      <edge source="9844199270" target="7474876552" id="52" weight="10" />
+      <edge source="9844199270" target="7387681102" id="53" weight="9" />
+      <edge source="9844199270" target="3853659094" id="54" weight="8" />
+      <edge source="9844199270" target="3992614351" id="55" weight="8" />
+      <edge source="9844199270" target="4105915703" id="56" weight="8" />
+      <edge source="9844199270" target="6221884031" id="57" weight="8" />
+      <edge source="9844199270" target="7015132864" id="58" weight="7" />
+      <edge source="9844199270" target="7484510798" id="59" weight="7" />
+      <edge source="6812639853" target="3023082911" id="60" weight="18" />
+      <edge source="6812639853" target="2974295240" id="61" weight="12" />
+      <edge source="6812639853" target="5496365145" id="62" weight="12" />
+      <edge source="6812639853" target="8016146827" id="63" weight="12" />
+      <edge source="6812639853" target="5254616738" id="64" weight="9" />
+      <edge source="6812639853" target="2210102874" id="65" weight="7" />
+      <edge source="6812639853" target="1360761810" id="66" weight="6" />
+      <edge source="6812639853" target="4766436456" id="67" weight="6" />
+      <edge source="6812639853" target="6673964353" id="68" weight="5" />
+      <edge source="6812639853" target="1038363374" id="69" weight="4" />
+      <edge source="6812639853" target="1197500381" id="70" weight="4" />
+      <edge source="6812639853" target="4767878987" id="71" weight="4" />
+      <edge source="6812639853" target="4902513783" id="72" weight="4" />
+      <edge source="6812639853" target="5154781728" id="73" weight="4" />
+      <edge source="6812639853" target="8963940359" id="74" weight="4" />
+      <edge source="6812639853" target="1302329899" id="75" weight="3" />
+      <edge source="6812639853" target="1368556711" id="76" weight="3" />
+      <edge source="6812639853" target="2230662396" id="77" weight="3" />
+      <edge source="6812639853" target="3148365391" id="78" weight="3" />
+      <edge source="6812639853" target="3477841804" id="79" weight="3" />
+      <edge source="5885428749" target="8741307729" id="80" weight="163" />
+      <edge source="5885428749" target="5854399142" id="81" weight="34" />
+      <edge source="5885428749" target="6217239655" id="82" weight="31" />
+      <edge source="5885428749" target="4666097961" id="83" weight="29" />
+      <edge source="5885428749" target="3793600772" id="84" weight="21" />
+      <edge source="5885428749" target="7228527313" id="85" weight="19" />
+      <edge source="5885428749" target="6104748154" id="86" weight="18" />
+      <edge source="5885428749" target="5699510252" id="87" weight="17" />
+      <edge source="5885428749" target="8723476338" id="88" weight="17" />
+      <edge source="5885428749" target="7079167004" id="89" weight="15" />
+      <edge source="5885428749" target="7484510798" id="90" weight="13" />
+      <edge source="5885428749" target="2279532424" id="91" weight="12" />
+      <edge source="5885428749" target="9598837143" id="92" weight="12" />
+      <edge source="5885428749" target="4399835128" id="93" weight="11" />
+      <edge source="5885428749" target="6844408548" id="94" weight="11" />
+      <edge source="5885428749" target="7015132864" id="95" weight="11" />
+      <edge source="5885428749" target="9316678829" id="96" weight="11" />
+      <edge source="5885428749" target="9629809206" id="97" weight="11" />
+      <edge source="5885428749" target="6221884031" id="98" weight="10" />
+      <edge source="5885428749" target="3355652015" id="99" weight="9" />
+      <edge source="6702056515" target="8798559442" id="100" weight="20" />
+      <edge source="6702056515" target="9712855330" id="101" weight="20" />
+      <edge source="6702056515" target="9917018718" id="102" weight="13" />
+      <edge source="6702056515" target="5237401097" id="103" weight="12" />
+      <edge source="6702056515" target="6170732153" id="104" weight="12" />
+      <edge source="6702056515" target="8273809517" id="105" weight="11" />
+      <edge source="6702056515" target="4036335861" id="106" weight="10" />
+      <edge source="6702056515" target="9901966607" id="107" weight="9" />
+      <edge source="6702056515" target="6813453669" id="108" weight="7" />
+      <edge source="6702056515" target="1295219821" id="109" weight="6" />
+      <edge source="6702056515" target="5328759869" id="110" weight="6" />
+      <edge source="6702056515" target="5654390991" id="111" weight="6" />
+      <edge source="6702056515" target="6518786203" id="112" weight="6" />
+      <edge source="6702056515" target="1230267814" id="113" weight="5" />
+      <edge source="6702056515" target="1531292178" id="114" weight="5" />
+      <edge source="6702056515" target="1618457985" id="115" weight="5" />
+      <edge source="6702056515" target="2162841654" id="116" weight="5" />
+      <edge source="6702056515" target="3148365391" id="117" weight="5" />
+      <edge source="6702056515" target="3228396609" id="118" weight="5" />
+      <edge source="6702056515" target="5011639846" id="119" weight="5" />
+      <edge source="9434457050" target="1091463184" id="120" weight="18" />
+      <edge source="9434457050" target="1132347293" id="121" weight="18" />
+      <edge source="9434457050" target="1161369420" id="122" weight="18" />
+      <edge source="9434457050" target="1175279320" id="123" weight="18" />
+      <edge source="9434457050" target="1195502309" id="124" weight="18" />
+      <edge source="9434457050" target="1724650214" id="125" weight="18" />
+      <edge source="9434457050" target="1842832332" id="126" weight="18" />
+      <edge source="9434457050" target="1996742282" id="127" weight="18" />
+      <edge source="9434457050" target="2051116532" id="128" weight="18" />
+      <edge source="9434457050" target="2085899113" id="129" weight="18" />
+      <edge source="9434457050" target="2246857837" id="130" weight="18" />
+      <edge source="9434457050" target="2477031205" id="131" weight="18" />
+      <edge source="9434457050" target="2482913124" id="132" weight="18" />
+      <edge source="9434457050" target="2485005515" id="133" weight="18" />
+      <edge source="9434457050" target="2569335531" id="134" weight="18" />
+      <edge source="9434457050" target="2623743588" id="135" weight="18" />
+      <edge source="9434457050" target="2691978973" id="136" weight="18" />
+      <edge source="9434457050" target="2702785219" id="137" weight="18" />
+      <edge source="9434457050" target="2797299538" id="138" weight="18" />
+      <edge source="9434457050" target="2813310341" id="139" weight="18" />
+      <edge source="6988800879" target="2223263801" id="140" weight="1266" />
+      <edge source="6988800879" target="3527053266" id="141" weight="185" />
+      <edge source="6988800879" target="5327547760" id="142" weight="36" />
+      <edge source="6988800879" target="5097829700" id="143" weight="23" />
+      <edge source="6988800879" target="1090223239" id="144" weight="18" />
+      <edge source="6988800879" target="1671352597" id="145" weight="18" />
+      <edge source="6988800879" target="1934111776" id="146" weight="18" />
+      <edge source="6988800879" target="2638755939" id="147" weight="18" />
+      <edge source="6988800879" target="3574739511" id="148" weight="18" />
+      <edge source="6988800879" target="3582917289" id="149" weight="18" />
+      <edge source="6988800879" target="4512196367" id="150" weight="18" />
+      <edge source="6988800879" target="4549347624" id="151" weight="18" />
+      <edge source="6988800879" target="4578943085" id="152" weight="18" />
+      <edge source="6988800879" target="5042671725" id="153" weight="18" />
+      <edge source="6988800879" target="5614154663" id="154" weight="18" />
+      <edge source="6988800879" target="6025497878" id="155" weight="18" />
+      <edge source="6988800879" target="6692939989" id="156" weight="18" />
+      <edge source="6988800879" target="7118743565" id="157" weight="18" />
+      <edge source="6988800879" target="7415342491" id="158" weight="18" />
+      <edge source="6988800879" target="7453851059" id="159" weight="18" />
+      <edge source="3825318663" target="2763869025" id="160" weight="14" />
+      <edge source="3825318663" target="4418083773" id="161" weight="9" />
+      <edge source="3825318663" target="6639921573" id="162" weight="7" />
+      <edge source="3825318663" target="8118676830" id="163" weight="7" />
+      <edge source="3825318663" target="8950771725" id="164" weight="7" />
+      <edge source="3825318663" target="6026486939" id="165" weight="6" />
+      <edge source="3825318663" target="5699510252" id="166" weight="5" />
+      <edge source="3825318663" target="7209246205" id="167" weight="5" />
+      <edge source="3825318663" target="9316678829" id="168" weight="5" />
+      <edge source="3825318663" target="9511283265" id="169" weight="5" />
+      <edge source="3825318663" target="1638848105" id="170" weight="4" />
+      <edge source="3825318663" target="2210102874" id="171" weight="4" />
+      <edge source="3825318663" target="5691341923" id="172" weight="4" />
+      <edge source="3825318663" target="6084501579" id="173" weight="4" />
+      <edge source="3825318663" target="6221884031" id="174" weight="4" />
+      <edge source="3825318663" target="7221925183" id="175" weight="4" />
+      <edge source="3825318663" target="9927791689" id="176" weight="4" />
+      <edge source="3825318663" target="1591962119" id="177" weight="3" />
+      <edge source="3825318663" target="3387194922" id="178" weight="3" />
+      <edge source="3825318663" target="5847344254" id="179" weight="3" />
+      <edge source="8677533321" target="5781336864" id="180" weight="129" />
+      <edge source="8677533321" target="2210102874" id="181" weight="38" />
+      <edge source="8677533321" target="5854399142" id="182" weight="28" />
+      <edge source="8677533321" target="2225950042" id="183" weight="19" />
+      <edge source="8677533321" target="5134770612" id="184" weight="14" />
+      <edge source="8677533321" target="6057104254" id="185" weight="11" />
+      <edge source="8677533321" target="2279532424" id="186" weight="9" />
+      <edge source="8677533321" target="9316678829" id="187" weight="9" />
+      <edge source="8677533321" target="3846601664" id="188" weight="8" />
+      <edge source="8677533321" target="3326765894" id="189" weight="7" />
+      <edge source="8677533321" target="5510146063" id="190" weight="7" />
+      <edge source="8677533321" target="1049477898" id="191" weight="6" />
+      <edge source="8677533321" target="1152270714" id="192" weight="6" />
+      <edge source="8677533321" target="3724675245" id="193" weight="6" />
+      <edge source="8677533321" target="4384190068" id="194" weight="6" />
+      <edge source="8677533321" target="6264678855" id="195" weight="6" />
+      <edge source="8677533321" target="7986284395" id="196" weight="6" />
+      <edge source="8677533321" target="3870566534" id="197" weight="5" />
+      <edge source="8677533321" target="4002409964" id="198" weight="5" />
+      <edge source="8677533321" target="4192049220" id="199" weight="5" />
+      <edge source="8804148141" target="1951124489" id="200" weight="23" />
+      <edge source="8804148141" target="7301838482" id="201" weight="22" />
+      <edge source="8804148141" target="4431316418" id="202" weight="17" />
+      <edge source="8804148141" target="2302223371" id="203" weight="14" />
+      <edge source="8804148141" target="9598837143" id="204" weight="14" />
+      <edge source="8804148141" target="7474876552" id="205" weight="11" />
+      <edge source="8804148141" target="5446018483" id="206" weight="10" />
+      <edge source="8804148141" target="1749539780" id="207" weight="8" />
+      <edge source="8804148141" target="2478106163" id="208" weight="8" />
+      <edge source="8804148141" target="4125950885" id="209" weight="8" />
+      <edge source="8804148141" target="9460603210" id="210" weight="8" />
+      <edge source="8804148141" target="5854399142" id="211" weight="7" />
+      <edge source="8804148141" target="3148365391" id="212" weight="6" />
+      <edge source="8804148141" target="3793600772" id="213" weight="6" />
+      <edge source="8804148141" target="4285688670" id="214" weight="6" />
+      <edge source="8804148141" target="8396428049" id="215" weight="6" />
+      <edge source="8804148141" target="4918175465" id="216" weight="5" />
+      <edge source="8804148141" target="6057104254" id="217" weight="5" />
+      <edge source="8804148141" target="1281180093" id="218" weight="4" />
+      <edge source="8804148141" target="2025415224" id="219" weight="4" />
+      <edge source="8395668056" target="1235269757" id="220" weight="8" />
+      <edge source="8395668056" target="4524847365" id="221" weight="6" />
+      <edge source="8395668056" target="8499647483" id="222" weight="6" />
+      <edge source="8395668056" target="3158019785" id="223" weight="5" />
+      <edge source="8395668056" target="2162680707" id="224" weight="4" />
+      <edge source="8395668056" target="2343694864" id="225" weight="4" />
+      <edge source="8395668056" target="2734600933" id="226" weight="4" />
+      <edge source="8395668056" target="4063112275" id="227" weight="4" />
+      <edge source="8395668056" target="5536336517" id="228" weight="4" />
+      <edge source="8395668056" target="5926745709" id="229" weight="4" />
+      <edge source="8395668056" target="6212964435" id="230" weight="4" />
+      <edge source="8395668056" target="7079139065" id="231" weight="4" />
+      <edge source="8395668056" target="8854315024" id="232" weight="4" />
+      <edge source="8395668056" target="8872794010" id="233" weight="4" />
+      <edge source="8395668056" target="9199617545" id="234" weight="4" />
+      <edge source="8395668056" target="1936028976" id="235" weight="3" />
+      <edge source="8395668056" target="2910450188" id="236" weight="3" />
+      <edge source="8395668056" target="3227968809" id="237" weight="3" />
+      <edge source="8395668056" target="3567544615" id="238" weight="3" />
+      <edge source="8395668056" target="3952117705" id="239" weight="3" />
+      <edge source="2329324124" target="4697143245" id="240" weight="89" />
+      <edge source="2329324124" target="2603905261" id="241" weight="47" />
+      <edge source="2329324124" target="2936443748" id="242" weight="20" />
+      <edge source="2329324124" target="5213298893" id="243" weight="18" />
+      <edge source="2329324124" target="9633885738" id="244" weight="14" />
+      <edge source="2329324124" target="1406780787" id="245" weight="12" />
+      <edge source="2329324124" target="1841525448" id="246" weight="12" />
+      <edge source="2329324124" target="5353025834" id="247" weight="12" />
+      <edge source="2329324124" target="7520951741" id="248" weight="12" />
+      <edge source="2329324124" target="8502758285" id="249" weight="11" />
+      <edge source="2329324124" target="4353821657" id="250" weight="10" />
+      <edge source="2329324124" target="7303001135" id="251" weight="8" />
+      <edge source="2329324124" target="7379644947" id="252" weight="8" />
+      <edge source="2329324124" target="9134809816" id="253" weight="8" />
+      <edge source="2329324124" target="5696084264" id="254" weight="7" />
+      <edge source="2329324124" target="7661185900" id="255" weight="7" />
+      <edge source="2329324124" target="6181139269" id="256" weight="6" />
+      <edge source="2329324124" target="8455006383" id="257" weight="6" />
+      <edge source="2329324124" target="6221884031" id="258" weight="5" />
+      <edge source="2329324124" target="7138400938" id="259" weight="5" />
+      <edge source="2293031070" target="5854399142" id="260" weight="363" />
+      <edge source="2293031070" target="6188163143" id="261" weight="135" />
+      <edge source="2293031070" target="2225950042" id="262" weight="77" />
+      <edge source="2293031070" target="6580862446" id="263" weight="74" />
+      <edge source="2293031070" target="5954351994" id="264" weight="63" />
+      <edge source="2293031070" target="4747337911" id="265" weight="53" />
+      <edge source="2293031070" target="4579748826" id="266" weight="41" />
+      <edge source="2293031070" target="3623846330" id="267" weight="40" />
+      <edge source="2293031070" target="4012798002" id="268" weight="38" />
+      <edge source="2293031070" target="8495889190" id="269" weight="32" />
+      <edge source="2293031070" target="8454869894" id="270" weight="30" />
+      <edge source="2293031070" target="1295219821" id="271" weight="29" />
+      <edge source="2293031070" target="8325282096" id="272" weight="27" />
+      <edge source="2293031070" target="1827077024" id="273" weight="26" />
+      <edge source="2293031070" target="2032794871" id="274" weight="24" />
+      <edge source="2293031070" target="9239290897" id="275" weight="24" />
+      <edge source="2293031070" target="6325868920" id="276" weight="23" />
+      <edge source="2293031070" target="6259046264" id="277" weight="22" />
+      <edge source="2293031070" target="6719409114" id="278" weight="22" />
+      <edge source="2293031070" target="9845079721" id="279" weight="22" />
+      <edge source="9380856522" target="1172302109" id="280" weight="34" />
+      <edge source="9380856522" target="3956094054" id="281" weight="17" />
+      <edge source="9380856522" target="5619125505" id="282" weight="12" />
+      <edge source="9380856522" target="4130182128" id="283" weight="9" />
+      <edge source="9380856522" target="7177898690" id="284" weight="9" />
+      <edge source="9380856522" target="7474876552" id="285" weight="9" />
+      <edge source="9380856522" target="8296521893" id="286" weight="9" />
+      <edge source="9380856522" target="1292368751" id="287" weight="8" />
+      <edge source="9380856522" target="1538435026" id="288" weight="7" />
+      <edge source="9380856522" target="7851317555" id="289" weight="7" />
+      <edge source="9380856522" target="8766597495" id="290" weight="7" />
+      <edge source="9380856522" target="1430640478" id="291" weight="6" />
+      <edge source="9380856522" target="4271871426" id="292" weight="6" />
+      <edge source="9380856522" target="6276342172" id="293" weight="6" />
+      <edge source="9380856522" target="7691154792" id="294" weight="6" />
+      <edge source="9380856522" target="4057038115" id="295" weight="5" />
+      <edge source="9380856522" target="4722323049" id="296" weight="5" />
+      <edge source="9380856522" target="5337177288" id="297" weight="5" />
+      <edge source="9380856522" target="5705670528" id="298" weight="5" />
+      <edge source="9380856522" target="8664734676" id="299" weight="5" />
+      <edge source="9995201997" target="7540715104" id="300" weight="165" />
+      <edge source="9995201997" target="1651087771" id="301" weight="115" />
+      <edge source="9995201997" target="9101378410" id="302" weight="76" />
+      <edge source="9995201997" target="4732365340" id="303" weight="69" />
+      <edge source="9995201997" target="3849082125" id="304" weight="54" />
+      <edge source="9995201997" target="4666097961" id="305" weight="34" />
+      <edge source="9995201997" target="7508008793" id="306" weight="32" />
+      <edge source="9995201997" target="9316678829" id="307" weight="32" />
+      <edge source="9995201997" target="2225950042" id="308" weight="18" />
+      <edge source="9995201997" target="3547960339" id="309" weight="16" />
+      <edge source="9995201997" target="1976826444" id="310" weight="15" />
+      <edge source="9995201997" target="3793600772" id="311" weight="15" />
+      <edge source="9995201997" target="6104748154" id="312" weight="15" />
+      <edge source="9995201997" target="2222662239" id="313" weight="14" />
+      <edge source="9995201997" target="2725958757" id="314" weight="12" />
+      <edge source="9995201997" target="1481196175" id="315" weight="11" />
+      <edge source="9995201997" target="2275357302" id="316" weight="11" />
+      <edge source="9995201997" target="6026777890" id="317" weight="11" />
+      <edge source="9995201997" target="9927791689" id="318" weight="11" />
+      <edge source="9995201997" target="7015132864" id="319" weight="10" />
+      <edge source="2377898807" target="3640852479" id="320" weight="17" />
+      <edge source="2377898807" target="5933077696" id="321" weight="17" />
+      <edge source="2377898807" target="3730816050" id="322" weight="14" />
+      <edge source="2377898807" target="7002872591" id="323" weight="13" />
+      <edge source="2377898807" target="1538435026" id="324" weight="10" />
+      <edge source="2377898807" target="7301838482" id="325" weight="9" />
+      <edge source="2377898807" target="3274839675" id="326" weight="8" />
+      <edge source="2377898807" target="7309890412" id="327" weight="8" />
+      <edge source="2377898807" target="7474876552" id="328" weight="8" />
+      <edge source="2377898807" target="7519161536" id="329" weight="8" />
+      <edge source="2377898807" target="8480181888" id="330" weight="8" />
+      <edge source="2377898807" target="8922235613" id="331" weight="8" />
+      <edge source="2377898807" target="2976766939" id="332" weight="7" />
+      <edge source="2377898807" target="4325053678" id="333" weight="7" />
+      <edge source="2377898807" target="5895620165" id="334" weight="7" />
+      <edge source="2377898807" target="8023484594" id="335" weight="7" />
+      <edge source="2377898807" target="8932502851" id="336" weight="7" />
+      <edge source="2377898807" target="1710676157" id="337" weight="6" />
+      <edge source="2377898807" target="2225950042" id="338" weight="6" />
+      <edge source="2377898807" target="2380020909" id="339" weight="6" />
+      <edge source="9146458307" target="1295591634" id="340" weight="23" />
+      <edge source="9146458307" target="1546127161" id="341" weight="13" />
+      <edge source="9146458307" target="3915156268" id="342" weight="12" />
+      <edge source="9146458307" target="6553589027" id="343" weight="12" />
+      <edge source="9146458307" target="7737031863" id="344" weight="10" />
+      <edge source="9146458307" target="2428268614" id="345" weight="9" />
+      <edge source="9146458307" target="2700561161" id="346" weight="8" />
+      <edge source="9146458307" target="4060446179" id="347" weight="8" />
+      <edge source="9146458307" target="5104300672" id="348" weight="8" />
+      <edge source="9146458307" target="5233118602" id="349" weight="8" />
+      <edge source="9146458307" target="8689497383" id="350" weight="8" />
+      <edge source="9146458307" target="9157341476" id="351" weight="8" />
+      <edge source="9146458307" target="2653657695" id="352" weight="7" />
+      <edge source="9146458307" target="4485123593" id="353" weight="7" />
+      <edge source="9146458307" target="4825703540" id="354" weight="7" />
+      <edge source="9146458307" target="4931683463" id="355" weight="7" />
+      <edge source="9146458307" target="6556361186" id="356" weight="7" />
+      <edge source="9146458307" target="7749268948" id="357" weight="7" />
+      <edge source="9146458307" target="8366847890" id="358" weight="7" />
+      <edge source="9146458307" target="9027690616" id="359" weight="7" />
+      <edge source="8525916237" target="2894908287" id="360" weight="64" />
+      <edge source="8525916237" target="9633885738" id="361" weight="44" />
+      <edge source="8525916237" target="8695797532" id="362" weight="42" />
+      <edge source="8525916237" target="6760865286" id="363" weight="41" />
+      <edge source="8525916237" target="1803096699" id="364" weight="30" />
+      <edge source="8525916237" target="4766436456" id="365" weight="17" />
+      <edge source="8525916237" target="6217239655" id="366" weight="16" />
+      <edge source="8525916237" target="4890256162" id="367" weight="15" />
+      <edge source="8525916237" target="5854399142" id="368" weight="14" />
+      <edge source="8525916237" target="1333117998" id="369" weight="13" />
+      <edge source="8525916237" target="9306922238" id="370" weight="13" />
+      <edge source="8525916237" target="8557774279" id="371" weight="11" />
+      <edge source="8525916237" target="2222662239" id="372" weight="9" />
+      <edge source="8525916237" target="4258334127" id="373" weight="9" />
+      <edge source="8525916237" target="6221884031" id="374" weight="8" />
+      <edge source="8525916237" target="7301838482" id="375" weight="8" />
+      <edge source="8525916237" target="7689576622" id="376" weight="8" />
+      <edge source="8525916237" target="4247932622" id="377" weight="7" />
+      <edge source="8525916237" target="4497527186" id="378" weight="7" />
+      <edge source="8525916237" target="7015132864" id="379" weight="7" />
+      <edge source="2429357633" target="5798420229" id="380" weight="12" />
+      <edge source="2429357633" target="4202530246" id="381" weight="10" />
+      <edge source="2429357633" target="7687854484" id="382" weight="10" />
+      <edge source="2429357633" target="8963940359" id="383" weight="9" />
+      <edge source="2429357633" target="1128305750" id="384" weight="8" />
+      <edge source="2429357633" target="1651087771" id="385" weight="8" />
+      <edge source="2429357633" target="2038579002" id="386" weight="8" />
+      <edge source="2429357633" target="1055014674" id="387" weight="7" />
+      <edge source="2429357633" target="5904275047" id="388" weight="7" />
+      <edge source="2429357633" target="7901652710" id="389" weight="7" />
+      <edge source="2429357633" target="9012977435" id="390" weight="7" />
+      <edge source="2429357633" target="1735333468" id="391" weight="6" />
+      <edge source="2429357633" target="2283707809" id="392" weight="6" />
+      <edge source="2429357633" target="2915219092" id="393" weight="6" />
+      <edge source="2429357633" target="2981031209" id="394" weight="6" />
+      <edge source="2429357633" target="3085955370" id="395" weight="6" />
+      <edge source="2429357633" target="3555279107" id="396" weight="6" />
+      <edge source="2429357633" target="3563268386" id="397" weight="6" />
+      <edge source="2429357633" target="3651153588" id="398" weight="6" />
+      <edge source="2429357633" target="4694364545" id="399" weight="6" />
+    </edges>
+  </graph>
+</gexf>

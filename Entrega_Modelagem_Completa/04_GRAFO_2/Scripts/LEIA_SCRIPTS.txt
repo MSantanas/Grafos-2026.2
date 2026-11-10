@@ -1,0 +1,10 @@
+GRAFO 2
+
+processar_grafo2.py: versao com caminhos relativos, pronta para rodar a partir de qualquer diretorio.
+   python 04_GRAFO_2/Scripts/processar_grafo2.py
+
+processar_grafo2_original.py: copia intacta do codigo recebido, com caminhos absolutos /mnt/data. Preservada para auditoria, nao para execucao no Windows.
+
+O reprocessamento grava os CSVs em 04_GRAFO_2/Redes_Usuarios/Reprocessamento/ e nao sobrescreve os resultados entregues.
+
+A analise de concentracao e remocao direcionada foi entregue como resultados CSV e figura, mas nenhum script especifico para reproduzir essas etapas constava nos pacotes de origem. Nao foi inventado codigo para essas analises.

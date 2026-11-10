@@ -1,0 +1,146 @@
+{
+  "gossipcop_fake": {
+    "arestas": {
+      "same": true,
+      "original": {
+        "rows": 308547,
+        "unique_keys": 308547,
+        "duplicate_keys": 0,
+        "xor": "0x74f13c6ab1a70d76f274bc9bdb5bd0cb",
+        "sum": "0xcd795d3980d88e8ee04fbfc8763452ed"
+      },
+      "reprocessed": {
+        "rows": 308547,
+        "unique_keys": 308547,
+        "duplicate_keys": 0,
+        "xor": "0x74f13c6ab1a70d76f274bc9bdb5bd0cb",
+        "sum": "0xcd795d3980d88e8ee04fbfc8763452ed"
+      }
+    },
+    "usuarios": {
+      "same": true,
+      "original": {
+        "rows": 564290,
+        "unique_keys": 564290,
+        "duplicate_keys": 0,
+        "xor": "0x9aea09b8c7f6d17557d49d2b01e2263d",
+        "sum": "0x41b7260f82198cce76944902b01d85fd"
+      },
+      "reprocessed": {
+        "rows": 564290,
+        "unique_keys": 564290,
+        "duplicate_keys": 0,
+        "xor": "0x9aea09b8c7f6d17557d49d2b01e2263d",
+        "sum": "0x41b7260f82198cce76944902b01d85fd"
+      }
+    }
+  },
+  "gossipcop_real": {
+    "arestas": {
+      "same": true,
+      "original": {
+        "rows": 145712,
+        "unique_keys": 145712,
+        "duplicate_keys": 0,
+        "xor": "0x1d6e0065e318af42ed69b7b466e592bf",
+        "sum": "0xb05462df29390bae464d2c6e765be7d5"
+      },
+      "reprocessed": {
+        "rows": 145712,
+        "unique_keys": 145712,
+        "duplicate_keys": 0,
+        "xor": "0x1d6e0065e318af42ed69b7b466e592bf",
+        "sum": "0xb05462df29390bae464d2c6e765be7d5"
+      }
+    },
+    "usuarios": {
+      "same": true,
+      "original": {
+        "rows": 233302,
+        "unique_keys": 233302,
+        "duplicate_keys": 0,
+        "xor": "0xe59932fb50f3d82385f00b3cffaeb11c",
+        "sum": "0x3d5febd52150491f15602c41eeb94c6e"
+      },
+      "reprocessed": {
+        "rows": 233302,
+        "unique_keys": 233302,
+        "duplicate_keys": 0,
+        "xor": "0xe59932fb50f3d82385f00b3cffaeb11c",
+        "sum": "0x3d5febd52150491f15602c41eeb94c6e"
+      }
+    }
+  },
+  "politifact_fake": {
+    "arestas": {
+      "same": true,
+      "original": {
+        "rows": 108519,
+        "unique_keys": 108519,
+        "duplicate_keys": 0,
+        "xor": "0x39aa096a8399ca19c512c5515a5f7cc2",
+        "sum": "0xf37281ba67fc8338c5f57334591e1ef4"
+      },
+      "reprocessed": {
+        "rows": 108519,
+        "unique_keys": 108519,
+        "duplicate_keys": 0,
+        "xor": "0x39aa096a8399ca19c512c5515a5f7cc2",
+        "sum": "0xf37281ba67fc8338c5f57334591e1ef4"
+      }
+    },
+    "usuarios": {
+      "same": true,
+      "original": {
+        "rows": 161136,
+        "unique_keys": 161136,
+        "duplicate_keys": 0,
+        "xor": "0x28d376677c5e60288249eb064874b16f",
+        "sum": "0xbbb6b9904f843db1739b68dafd4199ab"
+      },
+      "reprocessed": {
+        "rows": 161136,
+        "unique_keys": 161136,
+        "duplicate_keys": 0,
+        "xor": "0x28d376677c5e60288249eb064874b16f",
+        "sum": "0xbbb6b9904f843db1739b68dafd4199ab"
+      }
+    }
+  },
+  "politifact_real": {
+    "arestas": {
+      "same": true,
+      "original": {
+        "rows": 173483,
+        "unique_keys": 173483,
+        "duplicate_keys": 0,
+        "xor": "0x8636d192d6236876bebda1cbebbfaa93",
+        "sum": "0xb53d355b09c2147b6ec7c77dba294ae7"
+      },
+      "reprocessed": {
+        "rows": 173483,
+        "unique_keys": 173483,
+        "duplicate_keys": 0,
+        "xor": "0x8636d192d6236876bebda1cbebbfaa93",
+        "sum": "0xb53d355b09c2147b6ec7c77dba294ae7"
+      }
+    },
+    "usuarios": {
+      "same": true,
+      "original": {
+        "rows": 258886,
+        "unique_keys": 258886,
+        "duplicate_keys": 0,
+        "xor": "0xfd8b7454aaa39eaf2511b0648faad7ae",
+        "sum": "0x1806185f6d5eeb4890cbb7385dfda440"
+      },
+      "reprocessed": {
+        "rows": 258886,
+        "unique_keys": 258886,
+        "duplicate_keys": 0,
+        "xor": "0xfd8b7454aaa39eaf2511b0648faad7ae",
+        "sum": "0x1806185f6d5eeb4890cbb7385dfda440"
+      }
+    }
+  }
+}
