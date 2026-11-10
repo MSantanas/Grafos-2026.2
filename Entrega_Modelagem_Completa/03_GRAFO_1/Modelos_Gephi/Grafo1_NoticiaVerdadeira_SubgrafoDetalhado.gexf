@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-11-06">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="tipo" type="string" />
+      <attribute id="1" title="tipo_num" type="long" />
+      <attribute id="2" title="profundidade" type="long" />
+      <attribute id="3" title="usuario" type="string" />
+      <attribute id="4" title="horario" type="string" />
+    </attributes>
+    <nodes>
+      <node id="1567816783" label="Evento 1567816783">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="7.0" />
+        <viz:position x="3182.5" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2210616796" />
+          <attvalue for="4" value="1532853342" />
+        </attvalues>
+      </node>
+      <node id="3452535610" label="Evento 3452535610">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="190.0" y="-500.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="1730796035" />
+          <attvalue for="4" value="1532878818" />
+        </attvalues>
+      </node>
+      <node id="1192637905" label="Evento 1192637905">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="2375.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="7366528065" />
+          <attvalue for="4" value="1532853491" />
+        </attvalues>
+      </node>
+      <node id="6771280480" label="Evento 6771280480">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="3230.0" y="-750.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="2210616796" />
+          <attvalue for="4" value="1533019669" />
+        </attvalues>
+      </node>
+      <node id="1000100659" label="Evento 1000100659">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="2090.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2671547531" />
+          <attvalue for="4" value="1532853277" />
+        </attvalues>
+      </node>
+      <node id="4093961531" label="Evento 4093961531">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="7.0" />
+        <viz:position x="2850.0" y="-500.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="8605906611" />
+          <attvalue for="4" value="1532854180" />
+        </attvalues>
+      </node>
+      <node id="7953136177" label="Evento 7953136177">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="1425.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="8853862897" />
+          <attvalue for="4" value="1532928957" />
+        </attvalues>
+      </node>
+      <node id="9422174284" label="Evento 9422174284">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="1045.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1901325066" />
+          <attvalue for="4" value="1532883936" />
+        </attvalues>
+      </node>
+      <node id="1411592882" label="Evento 1411592882">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="2280.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="7074823880" />
+          <attvalue for="4" value="1532853263" />
+        </attvalues>
+      </node>
+      <node id="3864269457" label="Evento 3864269457">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="1900.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="6917689575" />
+          <attvalue for="4" value="1532854391" />
+        </attvalues>
+      </node>
+      <node id="7722471039" label="Evento 7722471039">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="3040.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="8787952831" />
+          <attvalue for="4" value="1532854005" />
+        </attvalues>
+      </node>
+      <node id="3647320541" label="Evento 3647320541">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="665.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="8029058781" />
+          <attvalue for="4" value="1532880751" />
+        </attvalues>
+      </node>
+      <node id="3784097631" label="Evento 3784097631">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="1805.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="7387125563" />
+          <attvalue for="4" value="1532854347" />
+        </attvalues>
+      </node>
+      <node id="6542525831" label="Evento 6542525831">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="2470.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4881660298" />
+          <attvalue for="4" value="1532854031" />
+        </attvalues>
+      </node>
+      <node id="9064801523" label="Evento 9064801523">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="570.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="9243078864" />
+          <attvalue for="4" value="1532880285" />
+        </attvalues>
+      </node>
+      <node id="9385981806" label="Evento 9385981806">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="475.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="3518806354" />
+          <attvalue for="4" value="1532878827" />
+        </attvalues>
+      </node>
+      <node id="2284000950" label="Evento 2284000950">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="9.0" />
+        <viz:position x="3182.5" y="-500.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="9789804102" />
+          <attvalue for="4" value="1532940824" />
+        </attvalues>
+      </node>
+      <node id="5986319508" label="Evento 5986319508">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="1235.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2225950042" />
+          <attvalue for="4" value="1532912647" />
+        </attvalues>
+      </node>
+      <node id="7540619263" label="Evento 7540619263">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="95.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="8444733667" />
+          <attvalue for="4" value="1532878478" />
+        </attvalues>
+      </node>
+      <node id="3670205305" label="Evento 3670205305">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="1140.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="5882217623" />
+          <attvalue for="4" value="1532886356" />
+        </attvalues>
+      </node>
+      <node id="6923756158" label="Evento 6923756158">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="7.0" />
+        <viz:position x="2850.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="6875998016" />
+          <attvalue for="4" value="1532853339" />
+        </attvalues>
+      </node>
+      <node id="7213965683" label="Evento 7213965683">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="3135.0" y="-750.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="9789804102" />
+          <attvalue for="4" value="1532940920" />
+        </attvalues>
+      </node>
+      <node id="7950344565" label="Evento 7950344565">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="2565.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="5882217623" />
+          <attvalue for="4" value="1532861155" />
+        </attvalues>
+      </node>
+      <node id="9894415190" label="Evento 9894415190">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="1995.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="5995999768" />
+          <attvalue for="4" value="1532854438" />
+        </attvalues>
+      </node>
+      <node id="9864330188" label="Evento 9864330188">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="7.0" />
+        <viz:position x="190.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4718850480" />
+          <attvalue for="4" value="1532878484" />
+        </attvalues>
+      </node>
+      <node id="5036317565" label="Evento 5036317565">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="2185.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="3471304441" />
+          <attvalue for="4" value="1532855257" />
+        </attvalues>
+      </node>
+      <node id="2693838429" label="Evento 2693838429">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="1520.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="5854399142" />
+          <attvalue for="4" value="1532932825" />
+        </attvalues>
+      </node>
+      <node id="2572737345" label="Evento 2572737345">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="760.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1035213517" />
+          <attvalue for="4" value="1532880803" />
+        </attvalues>
+      </node>
+      <node id="5363751151" label="Evento 5363751151">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="855.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2549631801" />
+          <attvalue for="4" value="1532881373" />
+        </attvalues>
+      </node>
+      <node id="7776612071" label="Evento 7776612071">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="0.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4138478366" />
+          <attvalue for="4" value="1532878418" />
+        </attvalues>
+      </node>
+      <node id="8702196469" label="Evento 8702196469">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="1710.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2146795947" />
+          <attvalue for="4" value="1532890296" />
+        </attvalues>
+      </node>
+      <node id="8148255731" label="Evento 8148255731">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="2945.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="7768016485" />
+          <attvalue for="4" value="1532860577" />
+        </attvalues>
+      </node>
+      <node id="1917835909" label="Evento 1917835909">
+        <viz:color r="104" g="173" b="54" a="1.0" />
+        <viz:size value="19.0" />
+        <viz:position x="1591.25" y="0.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Postagem" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="8596060719" />
+          <attvalue for="4" value="1532853183" />
+        </attvalues>
+      </node>
+      <node id="3663084455" label="Evento 3663084455">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="380.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="3244877717" />
+          <attvalue for="4" value="1532878673" />
+        </attvalues>
+      </node>
+      <node id="1614309153" label="Evento 1614309153">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="2660.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2210616796" />
+          <attvalue for="4" value="1532853297" />
+        </attvalues>
+      </node>
+      <node id="7253388645" label="Evento 7253388645">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="1330.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2146795947" />
+          <attvalue for="4" value="1532915511" />
+        </attvalues>
+      </node>
+      <node id="2957040363" label="Evento 2957040363">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="285.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="6307772100" />
+          <attvalue for="4" value="1532878496" />
+        </attvalues>
+      </node>
+      <node id="7625644833" label="Evento 7625644833">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="2850.0" y="-1000.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="7567306530" />
+          <attvalue for="4" value="1532902835" />
+        </attvalues>
+      </node>
+      <node id="4543034339" label="Evento 4543034339">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="2755.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="3424202389" />
+          <attvalue for="4" value="1532861687" />
+        </attvalues>
+      </node>
+      <node id="8231180505" label="Evento 8231180505">
+        <viz:color r="255" g="116" b="62" a="1.0" />
+        <viz:size value="7.0" />
+        <viz:position x="2850.0" y="-750.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Resposta" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="6875998016" />
+          <attvalue for="4" value="1532854290" />
+        </attvalues>
+      </node>
+      <node id="5358392558" label="Evento 5358392558">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="1615.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="7994047531" />
+          <attvalue for="4" value="1532935981" />
+        </attvalues>
+      </node>
+      <node id="3742584340" label="Evento 3742584340">
+        <viz:color r="210" g="124" b="206" a="1.0" />
+        <viz:size value="5.0" />
+        <viz:position x="950.0" y="-250.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Retuite" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="9633885738" />
+          <attvalue for="4" value="1532882236" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="1567816783" target="2284000950" id="3073" />
+      <edge source="4093961531" target="8231180505" id="3071" />
+      <edge source="2284000950" target="7213965683" id="3074" />
+      <edge source="2284000950" target="6771280480" id="3075" />
+      <edge source="6923756158" target="4093961531" id="3070" />
+      <edge source="9864330188" target="3452535610" id="3069" />
+      <edge source="1917835909" target="7776612071" id="3035" />
+      <edge source="1917835909" target="7540619263" id="3036" />
+      <edge source="1917835909" target="9864330188" id="3037" />
+      <edge source="1917835909" target="2957040363" id="3038" />
+      <edge source="1917835909" target="3663084455" id="3039" />
+      <edge source="1917835909" target="9385981806" id="3040" />
+      <edge source="1917835909" target="9064801523" id="3041" />
+      <edge source="1917835909" target="3647320541" id="3042" />
+      <edge source="1917835909" target="2572737345" id="3043" />
+      <edge source="1917835909" target="5363751151" id="3044" />
+      <edge source="1917835909" target="3742584340" id="3045" />
+      <edge source="1917835909" target="9422174284" id="3046" />
+      <edge source="1917835909" target="3670205305" id="3047" />
+      <edge source="1917835909" target="5986319508" id="3048" />
+      <edge source="1917835909" target="7253388645" id="3049" />
+      <edge source="1917835909" target="7953136177" id="3050" />
+      <edge source="1917835909" target="2693838429" id="3051" />
+      <edge source="1917835909" target="5358392558" id="3052" />
+      <edge source="1917835909" target="8702196469" id="3053" />
+      <edge source="1917835909" target="3784097631" id="3054" />
+      <edge source="1917835909" target="3864269457" id="3055" />
+      <edge source="1917835909" target="9894415190" id="3056" />
+      <edge source="1917835909" target="1000100659" id="3057" />
+      <edge source="1917835909" target="5036317565" id="3058" />
+      <edge source="1917835909" target="1411592882" id="3059" />
+      <edge source="1917835909" target="1192637905" id="3060" />
+      <edge source="1917835909" target="6542525831" id="3061" />
+      <edge source="1917835909" target="7950344565" id="3062" />
+      <edge source="1917835909" target="1614309153" id="3063" />
+      <edge source="1917835909" target="4543034339" id="3064" />
+      <edge source="1917835909" target="6923756158" id="3065" />
+      <edge source="1917835909" target="8148255731" id="3066" />
+      <edge source="1917835909" target="7722471039" id="3067" />
+      <edge source="1917835909" target="1567816783" id="3068" />
+      <edge source="8231180505" target="7625644833" id="3072" />
+    </edges>
+  </graph>
+</gexf>

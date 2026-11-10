@@ -1,0 +1,28 @@
+RELATORIO DE VALIDACAO INTEGRAL DA MODELAGEM
+Data: 06/11/2026
+
+GRAFO 1 - REEXECUCAO SOBRE O DATASET ORIGINAL
+Comandos executados a partir da raiz deste pacote:
+python 03_GRAFO_1/Scripts/extrair_metricas_grafo1.py --zip "02_DADOS/Dataset_Original/nx_network_data (1).zip" --saida "03_GRAFO_1/Metricas/Metricas_Cascatas_Recalculadas.csv"
+python 03_GRAFO_1/Scripts/validar_grafo1.py
+
+RESULTADOS CONFIRMADOS:
+- 11.257 cascatas processadas.
+- Comparacao por (source,label,filename) das 11 metricas numericas: zero divergencias.
+- Grafo falso gossipcop-8463307904: 6.179 vertices, 6.178 arestas; subarvore: 36 vertices, 35 arestas.
+- Grafo verdadeiro gossipcop-955433: 3.903 vertices, 3.902 arestas; subarvore: 42 vertices, 41 arestas.
+- Conjuntos de vertices/arestas e estrutura de arborescencia dos modelos GEXF conferem.
+
+GRAFO 2 - REEXECUCAO DAS ANALISES AGREGADAS
+Comando:
+python 04_GRAFO_2/Scripts/reproduzir_analises_grafo2.py
+- Execucao concluida para os quatro grupos.
+- Usuarios ativos, quantidade removida e soma dos pesos das arestas conferem.
+- Pequenas diferencas de concentracao/remocao em relacao ao historico; criterio de desempate nao documentado no processamento original.
+- Conferir 04_GRAFO_2/Metricas/Reproducao/RELATORIO_VERIFICACAO.txt para os valores e ressalvas.
+
+ESCOPO E LIMITES
+- A validacao integral do Grafo 1 foi realizada no ambiente de execucao atual.
+- As analises agregadas do Grafo 2 foram reproduzidas dos CSVs existentes; a extracao do Grafo 2 diretamente dos JSONs nao foi integralmente auditada nesta etapa.
+- Nao foram verificados o prototipo dos desenvolvedores nem sua integracao.
+- Nao substituir os percentuais historicos sem explicar a diferenca de criterio.

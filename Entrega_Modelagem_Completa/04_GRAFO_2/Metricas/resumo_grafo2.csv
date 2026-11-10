@@ -1,0 +1,5 @@
+Grupo,Noticias,Usuarios,ArestasUnicas,RetuitesRepresentados,RetuitesSemPaiValido,AutolacosExcluidos
+gossipcop_fake,3684,564290,308547,411153,0,3157
+gossipcop_real,6945,233302,145712,190586,0,1020
+politifact_fake,351,161136,108519,111278,0,1467
+politifact_real,277,258886,173483,183710,0,1178

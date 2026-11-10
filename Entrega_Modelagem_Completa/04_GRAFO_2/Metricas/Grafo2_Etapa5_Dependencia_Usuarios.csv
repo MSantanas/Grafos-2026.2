@@ -1,0 +1,5 @@
+Grupo,UsuariosOrigemAtivos,Removidos1pct,RetuitesTotais,PerdaTop1pct,PerdaAleatoriaEsperada,Razao,ArestasUnicasPerdidasPct
+gossipcop_fake,65025,651,411153,39.23,1.249,31.4,32.65
+gossipcop_real,19679,197,190586,62.404,1.172,53.26,54.69
+politifact_fake,24721,248,111278,26.909,1.359,19.8,26.07
+politifact_real,34180,342,183710,34.43,1.243,27.7,32.92

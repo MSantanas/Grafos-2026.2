@@ -1,0 +1,24 @@
+VERIFICACAO DE REPRODUTIBILIDADE — GRAFO 2 (06/11/2026)
+
+O script reproduzir_analises_grafo2.py foi executado sobre os quatro CSVs de usuários e arestas existentes no pacote, utilizando apenas Python padrão. Foram confirmados os números de usuários com força de saída positiva, a quantidade de removidos e a soma dos pesos das arestas. Os percentuais de remoção e concentração são muito próximos, mas não exatamente iguais aos resultados originais. Os arquivos históricos foram preservados.
+
+Critério explícito da nova execução: selecionar ceil(1% * usuários com OutStrength positivo), ordenados por OutStrength decrescente e, em caso de empate, por identificador crescente. O método de desempate da análise histórica não foi identificado no material disponível, portanto não se pode afirmar equivalência exata. Na nova execução, a referência aleatória é a expectativa analítica de remover uniformemente k usuários dentre os usuários com força de saída positiva; uma aresta é considerada perdida quando ao menos uma ponta é removida.
+
+RESULTADOS REPRODUZIDOS (percentuais):
+Grupo                 Concentração  Remoção alvo  Aleatória esperada
+GossipCop falsas       38,4285      39,2175       1,2493
+GossipCop verdadeiras  62,2968      62,4038       1,1716
+PolitiFact falsas      26,3907      26,9128       1,3588
+PolitiFact verdadeiras 34,2094      34,4276       1,2428
+
+VALORES HISTÓRICOS (percentuais):
+GossipCop falsas       38,41        39,23         1,249
+GossipCop verdadeiras  62,30        62,404        1,172
+PolitiFact falsas      26,34        26,909        1,359
+PolitiFact verdadeiras 34,21        34,43         1,243
+
+Conclusão: os achados substantivos são robustos a esta regra explícita de desempate, mas a reprodução não é bit a bit idêntica. Não se verificou nesta etapa a execução integral de extração dos 11.257 JSONs nem o protótipo dos desenvolvedores. O código de processamento do Grafo 2 e os scripts do Grafo 1 foram mantidos inalterados.
+
+Execução, a partir da raiz do pacote:
+python 04_GRAFO_2/Scripts/reproduzir_analises_grafo2.py
+Saída: 04_GRAFO_2/Metricas/Reproducao/analises_recalculadas_grafo2.csv

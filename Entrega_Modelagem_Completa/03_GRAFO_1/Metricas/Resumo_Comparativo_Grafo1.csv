@@ -1,0 +1,5 @@
+source,label,n,med_size,p90_size,med_depth,p90_depth,med_maxbranch,p90_maxbranch,time10_available
+gossipcop,falsa,3684,30.0,1335.0000000000027,2.0,6.0,3.0,82.0,2960
+gossipcop,verdadeira,6945,73.0,181.0,2.0,5.0,2.0,46.0,6845
+politifact,falsa,351,239.0,1863.0,5.0,8.0,20.0,105.0,336
+politifact,verdadeira,277,184.0,3454.8,5.0,8.0,19.0,166.20000000000002,252

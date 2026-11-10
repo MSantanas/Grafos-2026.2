@@ -1,0 +1,1 @@
+O pacote original foi preservado, com três novos arquivos de reprodutibilidade do Grafo 2. Leia 04_GRAFO_2/Metricas/Reproducao/RELATORIO_VERIFICACAO.txt. O MANIFESTO_SHA256.txt preexistente é histórico e não cobre os novos arquivos.
