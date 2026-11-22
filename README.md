@@ -19,10 +19,10 @@ Este repositório reúne o desenvolvimento de um protótipo de análise de redes
 | Integrante | Papel no projeto 
 | --- | --- |
 | **Maria Eduarda de Jesus Santana** | Coordenadora | 
-| **Manuela de Cássia Silva Santos** | Modeladora A |
-| **Maria Alice Moraes Batista** | Modeladora B | 
-| **Sofia Nogueira Batista** | Desenvolvera A |
-| **Matheus Motta Soriano** | Desenvolvedor B |
+| **Maria Alice Moraes Batista** | Modeladora A |
+| **Manuela de Cássia Silva Santos** | Modeladora B | 
+| **Matheus Motta Soriano** | Desenvolvera A |
+| **Sofia Nogueira Batista** | Desenvolvedor B |
 
 ## Objetivo
 
