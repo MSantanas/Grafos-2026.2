@@ -66,6 +66,34 @@ O notebook trabalha com um arquivo ZIP de **JSONs estruturados como árvores de 
 - **Fake News Propagation.** [Repositório de referência](https://github.com/mdepak/fake-news-propagation) para estruturas de propagação.
 - **NetworkX.** [Documentação oficial](https://networkx.org/documentation/stable/).
 
+## Como executar
+
+### 1. Preparar o ambiente
+
+Clone ou baixe este repositório e instale as bibliotecas principais:
+
+```bash
+python -m pip install jupyter networkx pandas matplotlib
+```
+
+Se estiver utilizando uma versão ampliada do notebook, com análises estatísticas adicionais, podem ser necessárias também `numpy` e `scipy`:
+
+```bash
+python -m pip install numpy scipy
+```
+
+No Google Colab, parte dessas bibliotecas pode já estar disponível.
+
+### 2. Executar o notebook
+
+Abra o arquivo `.ipynb` deste repositório no Jupyter Notebook ou Google Colab e execute as células na ordem apresentada. Para iniciar o Jupyter localmente:
+
+```bash
+jupyter notebook
+```
+
+O processamento poderá produzir tabelas de métricas, gráficos de comparação, ilustrações de cascatas e análises do grafo de usuários. Os arquivos específicos gerados dependem das células executadas; entre os previstos no código estão `metricas_cascatas.csv` e `grafo1_comparacao.png`.
+
 ---
 
 **Projeto desenvolvido para fins acadêmicos na Universidade Federal de Itajubá (UNIFEI), na disciplina SMAC03 — Grafos, 2026/2.**
